@@ -16,7 +16,12 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Amit Devda</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<h3 align="center">'Full Stack Web Developer with experience in building and
+                        deploying web applications using various technologies. Strong
+                        understanding of software development principles and ability to
+                        work in fast-paced, collaborative environments. Proven ability to
+                        design and implement scalable and maintainable solutions.
+                        My hands-on expertice in MERN, JavaScript, MongoDB,Nodejs,Express.'</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitdevda&label=Profile%20views&color=0e75b6&style=flat" alt="amitdevda" /> </p>
 
