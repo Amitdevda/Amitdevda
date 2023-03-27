@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **akd9t7@gmail.com**
 
-- Want to know about me **https://amitdevda.github.io**
+- Want to know about me **[https://amitdevda.github.io/](https://amitdevda.github.io/)**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1wR9F1f2Qx3f47iZOKJQImvXUoDiYcqv_/view?usp=share_link](https://drive.google.com/file/d/1wR9F1f2Qx3f47iZOKJQImvXUoDiYcqv_/view?usp=share_link)
 
