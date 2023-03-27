@@ -40,8 +40,9 @@ Here are some ideas to get you started:
 - 📄 Know about my experiences [https://drive.google.com/file/d/1wR9F1f2Qx3f47iZOKJQImvXUoDiYcqv_/view?usp=share_link](https://drive.google.com/file/d/1wR9F1f2Qx3f47iZOKJQImvXUoDiYcqv_/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="[https://www.linkedin.com/in/amit devda-0aa6b71b5](https://www.linkedin.com/in/amit-devda-0aa6b71b5/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit devda" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amit devda-0aa6b71b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit devda" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
